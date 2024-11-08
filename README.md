@@ -1,6 +1,7 @@
 # Hệ thống quản lý thi trắc nghiệm
 
 *Mô tả 
+[Truy cập OpenAI](https://www.openai.com)
 
 ## Mục Lục
 - [Giới Thiệu](#giới-thiệu)
@@ -22,7 +23,7 @@ Dự án này nhằm mục đích **giải quyết vấn đề ABC** bằng các
 - EntityFramework
 - Microsoft.ReportingServices.ReportViewerControl.Winform
 - Microsoft.SqlServer.Types
-- [Microsoft RDLC Report Designer 2022](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio2022)
+- Microsoft RDLC Report Designer 2022.[Link](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio2022)
 
 ### Cài Đặt
 
