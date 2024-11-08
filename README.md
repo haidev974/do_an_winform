@@ -22,7 +22,7 @@ Dự án này nhằm mục đích **giải quyết vấn đề ABC** bằng các
 - EntityFramework
 - Microsoft.ReportingServices.ReportViewerControl.Winform
 - Microsoft.SqlServer.Types
-- Microsoft RDLC Report Designer 2022 [https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio2022]
+- [Microsoft RDLC Report Designer 2022](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio2022)
 
 ### Cài Đặt
 
@@ -32,5 +32,7 @@ Dự án này nhằm mục đích **giải quyết vấn đề ABC** bằng các
    https://github.com/haidev974/do_an_winform.git
 
 ### Sử dụng
+
 ### Đóng góp
+
 ### Bản quyền
