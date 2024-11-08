@@ -1,4 +1,4 @@
-# Tên Dự Án
+# Hệ thống quản lý thi trắc nghiệm
 
 Mô tả ngắn gọn về dự án của bạn, nói về mục đích và tính năng chính của dự án.
 
@@ -8,12 +8,15 @@ Hướng dẫn về cách cài đặt và sử dụng dự án của bạn trên
 
 ### Yêu Cầu Hệ Thống
 
-- Điều kiện 1 (Ví dụ: `Python 3.x` hoặc `Node.js`)
-- Điều kiện 2 (Ví dụ: Các thư viện cần thiết)
+- C# _ winform
+- EntityFramework
+- Microsoft.ReportingServices.ReportViewerControl.Winform
+- Microsoft.SqlServer.Types
+- Microsoft RDLC Report Designer 2022 [https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio2022]
 
 ### Cài Đặt
 
 1. Clone dự án từ GitHub:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   https://github.com/haidev974/do_an_winform.git
