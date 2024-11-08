@@ -3,13 +3,12 @@
 *Mô tả 
 
 ## Mục Lục
-- [### Giới Thiệu](#giới-thiệu)
-- [### Yêu Cầu Hệ Thống](#yêu-cầu-hệ-thống)
-- [### Cài Đặt](#cài-đặt)
-- [### Sử Dụng](#sử-dụng)
-- [### Đóng Góp](#đóng-góp)
-- [### TEAM](#team)
-- [### Bản Quyền](#bản-quyền)
+- [Giới Thiệu](#giới-thiệu)
+- [Yêu Cầu Hệ Thống](#yêu-cầu-hệ-thống)
+- [Cài Đặt](#cài-đặt)
+- [Sử Dụng](#sử-dụng)
+- [Đóng Góp](#đóng-góp)
+- [Bản Quyền](#bản-quyền)
   
 ## Giới Thiệu
 
@@ -32,13 +31,6 @@ Dự án này nhằm mục đích **giải quyết vấn đề ABC** bằng các
    ```bash
    https://github.com/haidev974/do_an_winform.git
 
-### Giải Thích Các Phần
-
-- **Tên Dự Án**: Thay bằng tên cụ thể của dự án.
-- **Giới Thiệu**: Giới thiệu rõ ràng về mục tiêu và tính năng chính.
-- **Yêu Cầu Hệ Thống**: Liệt kê các yêu cầu phần mềm và phần cứng cần thiết.
-- **Cài Đặt**: Hướng dẫn cài đặt từng bước, kèm theo lệnh và thông tin cụ thể.
-- **Sử Dụng**: Hướng dẫn chạy ứng dụng và mô tả các tính năng chính.
-- **Đóng Góp**: Các bước cụ thể để các lập trình viên khác có thể đóng góp mã nguồn.
-- **TEAM**: Liệt kê các thành viên trong nhóm phát triển.
-- **Bản Quyền**: Thông tin về giấy phép bản quyền cho dự án.
+### Sử dụng
+### Đóng góp
+### Bản quyền
