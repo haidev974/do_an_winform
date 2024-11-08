@@ -1,7 +1,6 @@
 # Hệ thống quản lý thi trắc nghiệm
 
-*Mô tả 
-[Truy cập OpenAI](https://www.openai.com)
+[OpenAI](https://www.openai.com)
 
 ## Mục Lục
 - [Giới Thiệu](#giới-thiệu)
@@ -13,9 +12,9 @@
   
 ## Giới Thiệu
 
-Dự án này nhằm mục đích **giải quyết vấn đề ABC** bằng cách cung cấp các tính năng **như X, Y, Z**. Dự án phù hợp với người dùng **có nhu cầu DEF** và được phát triển với công nghệ **GHI** để đảm bảo hiệu suất và tính ổn định.
+Dự án này nhằm mục đích ...
 
-> **Ví dụ về tình huống sử dụng**: Bạn có thể mô tả một trường hợp cụ thể mà người dùng sẽ thấy lợi ích từ dự án này.
+> **Ví dụ về tình huống sử dụng**: ...
 
 ### Yêu Cầu Hệ Thống
 
